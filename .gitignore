@@ -25,4 +25,6 @@ yarn-error.log
 /node_modules
 /storage
 /bootstrap/cache
+.env/vendor/
+/node_modules/
 .env
